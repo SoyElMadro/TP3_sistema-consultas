@@ -2,5 +2,5 @@
 ## Programación III 2026
 ## TP Integrador: Sistema de Consulta de Liquidaciones "Mis Tarjetas" 💳
 
-Integrante: Gonzalo Madroñal
+Integrante: Gonzalo Madroñal<br>
 Comision: M3
