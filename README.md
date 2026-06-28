@@ -1,5 +1,6 @@
-# UTN FRH Tecnicatura Universitaria en P rogramación #
-# Programación III 2026 #
-# TP Integrador: Sistema de Consulta de Liquidaciones "Mis Tarjetas" 💳
+# UTN FRH Tecnicatura Universitaria en Programación
+## Programación III 2026
+## TP Integrador: Sistema de Consulta de Liquidaciones "Mis Tarjetas" 💳
 
-Hecho por: Gonzalo Madroñal
+Integrante: Gonzalo Madroñal
+Comision: M3
